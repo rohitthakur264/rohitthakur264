@@ -58,14 +58,6 @@ Euler paths, Hamilton paths, shortest path algorithms, and bipartite graph analy
 
 ---
 
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitthakur264&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitthakur264&layout=compact)
-
----
-
 🌱 Currently Learning
 • Advanced Machine Learning  
 • Backend Development  
