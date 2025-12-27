@@ -68,7 +68,9 @@ Euler paths, Hamilton paths, shortest path algorithms, and bipartite graph analy
 🌱 Let’s Connect!
 
 📫 Email: Rohitthakur121212@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/rohit-thakur-b9278427b/  
+
 🖥️ GitHub: https://github.com/rohitthakur264  
 
 ⭐ If you like my work, don’t forget to star my repositories!
