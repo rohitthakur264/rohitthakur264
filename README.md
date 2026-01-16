@@ -1,5 +1,5 @@
 Hi, I’m Rohit Thakur (rohitthakur264)
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning ) 
 🏫 Vishwakarma University, Pune  
 
 👨‍💻 Aspiring AI/ML Engineer | Software Developer  
